@@ -146,6 +146,11 @@ body {
             width: auto;
         }
 
+        >.apresentacao__links__navegacao {
+            width: auto;
+            font-size: .5rem;
+        }
+
         >.apresentacao__imagem {
             width: 60%;
         }
