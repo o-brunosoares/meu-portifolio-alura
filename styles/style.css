@@ -144,11 +144,11 @@ body {
 
         >.apresentacao__conteudo {
             width: auto;
-        }
 
-        >.apresentacao__links__navegacao {
-            width: auto;
-            font-size: .5rem;
+            >.apresentacao__links .apresentacao__links__navegacao {
+                width: 100%;
+                font-size: 1.5rem;
+            }
         }
 
         >.apresentacao__imagem {
